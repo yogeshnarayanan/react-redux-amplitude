@@ -8,7 +8,7 @@ Amplitude analytics integration for redux
 npm install --save react-redux-amplitude
 ```
 
-###Create and apply the tracker
+### Create and apply the tracker
 
 ```
 import { applyMiddleware, createStore } from 'redux';
@@ -32,9 +32,9 @@ const configureStore = (browserHistory, initialState) => {
 export default configureStore;
 ```
 
-##Usage
+## Usage
 
-###EventTypes
+### EventTypes
 
 * `EventTypes.identify`: To track User properties
 * `EventTypes.track`: To track Event properties
@@ -89,7 +89,7 @@ function receiveAuthedUser(user) {
 }
 ```
 
-##Inspiration
+## Inspiration
 
 * [redux-segment](https://github.com/rangle/redux-segment)
 * [redux-amplitude](https://github.com/restorando/redux-amplitude)
