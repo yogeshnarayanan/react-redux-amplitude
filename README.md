@@ -1,6 +1,6 @@
 # react-redux-amplitude
 
-Amplitude analytics integration for redux
+Amplitude analytics integration for redux. A simple middleware to log amplitude events from redux action
 
 ## Installation
 
