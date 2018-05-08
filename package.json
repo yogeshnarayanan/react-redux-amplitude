@@ -1,0 +1,12 @@
+{
+  "name": "react-redux-amplitude",
+  "version": "1.0.0",
+  "description": "Amplitude analytics integration for redux",
+  "main": "./src/index.js",
+  "repository": "https://github.com/yogeshnarayanan/react-redux-amplitude.git",
+  "author": "Yogesh Narayanan <Yogesh.Narayanan@vivriticapital.com-at-078188256006>",
+  "license": "MIT",
+  "dependencies": {
+    "redux-tap": "^0.2.0"
+  }
+}
